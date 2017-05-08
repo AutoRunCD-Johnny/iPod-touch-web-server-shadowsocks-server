@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.xxx.python</string>
+	<key>Program</key>
+	<string>python</string>
+	<key>RunAtLoad</key>
+		<true/>
+	<key>KeepAlive</key>
+		<true/>
+	<key>Username</key>
+		<string>root</string>
+	<key>ProcessType</key>
+		<string>Interactive</string>
+	<key>StandardErrorPath</key>
+    <string>/etc/py.log</string>
+</dict>
+</plist>
