@@ -1,4 +1,4 @@
 # iPod-touch-web-server-shadowsocks-server
 
-# iPod touch 4
+iPod touch 4
 
